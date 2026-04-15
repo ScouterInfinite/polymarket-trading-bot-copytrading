@@ -222,6 +222,10 @@ And if it earns its keep, a star on the repo means a lot.
 
 ---
 
+## Contact
+
+If you have any question, contact here [Telegram](https://t.me/xsugarboom)
+
 ## License
 
 ISC
